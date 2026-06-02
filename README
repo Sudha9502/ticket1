@@ -1,0 +1,24 @@
+# Intelligent Customer Support Ticket Triage & Resolution Assistant
+
+AWS-based AI-powered customer support automation system.
+
+## Features
+
+- Ticket Management
+- Auto Classification
+- RAG Responses
+- Bedrock Agents
+- Approval Workflowg
+- Streamlit Dashboard
+
+## Tech Stack
+
+- API Gateway
+- Lambda
+- DynamoDB
+- SQS
+- S3
+- Cognito
+- Bedrock
+- SNS
+- CloudWatch
